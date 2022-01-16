@@ -6,5 +6,6 @@ public class Main {
 	// write your code here
         System.out.println("First commit: Hello, world!");
         System.out.println("First new branch.");
+        System.out.println("Second commit: Bye, world!");
     }
 }
